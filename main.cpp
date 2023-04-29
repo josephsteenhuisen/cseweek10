@@ -1,4 +1,4 @@
-#include "week11.h"
+#include "main.h"
 
 int main(){
     Fraction a = create_fraction(1, 2);
